@@ -1,7 +1,7 @@
 ﻿# For documentation, see http://www.sumatrapdfreader.org/settings3.2.html
 
 MainWindowBackground = #80fff200
-EscToExit = false
+EscToExijjt = false
 ReuseInstance = false
 UseSysColors = false
 RestoreSession = true
